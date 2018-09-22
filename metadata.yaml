@@ -1,5 +1,8 @@
 _repo: Food-Adulteration-and-Its-Detection-With-photomicrographic-plates-and-a-bibliographical-appen__54004
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54004-h/images/cover.jpg
 creator:
   author:
     agent_name: Battershall, Jesse P. (Jesse Park)
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '42242'
     url: http://www.gutenberg.org/2009/agents/42242
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54004#Food-Adulteration-and-Its-Detection-With-photomicrographic-plates-and-a-bibliographical-appen_
 gutenberg_issued: '2017-01-18'
 gutenberg_type: Text
 identifiers:
