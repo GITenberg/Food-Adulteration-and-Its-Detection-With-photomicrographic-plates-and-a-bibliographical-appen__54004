@@ -1,0 +1,34 @@
+_repo: Food-Adulteration-and-Its-Detection-With-photomicrographic-plates-and-a-bibliographical-appen__54004
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Battershall, Jesse P. (Jesse Park)
+    aliases:
+    - Battershall, Jesse Park
+    - Battershall, J. P. (Jesse Park)
+    birthdate: 1851
+    deathdate: 1891
+    gutenberg_agent_id: '42242'
+    url: http://www.gutenberg.org/2009/agents/42242
+description: ''
+gutenberg_issued: '2017-01-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54004'
+  lccn: '07026070'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'TX'
+- !lcsh 'Food adulteration and inspection'
+- !lcsh 'Food adulteration and inspection -- United States'
+- GITenberg
+tableOfContents: Introduction -- Tea -- Coffee -- Cocoa and Chocolate -- Milk -- Butter
+  -- Cheese -- Flour, Bread, and Starch -- Bakers’ Chemicals -- Sugar -- Honey --
+  Confectionery -- Beer -- Wine -- Liquors -- Water -- Vinegar -- Pickles -- Olive
+  Oil -- Mustard -- Pepper -- Spices -- Miscellaneous -- Bibliography -- Laws.
+title: "Food Adulteration and Its Detection\r\nWith photomicrographic plates and a\
+  \ bibliographical appendix"
+url: http://www.gutenberg.org/ebooks/54004
